@@ -21,3 +21,12 @@ Decoding is free. The Pro pass adds Markdown report export of the call tree and 
 - [Lumen Tab](https://dansgit2b.github.io/lumen-tab/): pay-as-you-go micropayment tabs for agents on Arc ([repo](https://github.com/Dansgit2b/lumen-tab))
 
 MIT © Lumen Works.
+
+## Support this project
+
+This tool is free and MIT-licensed, maintained by one developer. If it saved you time, a tip of any size keeps it maintained:
+
+- **USDC on Base or Arc:** `0xee9790cB3960952F585379F831a89b4e00B4029A`
+- Drips: this repo has a `FUNDING.json`, so it can receive funds and dependency splits through [Drips](https://www.drips.network/).
+
+Thank you!
